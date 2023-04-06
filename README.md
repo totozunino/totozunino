@@ -18,7 +18,6 @@ If you want to contact me or know more about my work here is my portfolio:
 
 ### 🧑‍💻 About me!
 - 📌 Living in Uruguay
-- 👨‍🎓 Student in Information Technology at Universidad de la Republica
 - 💼 Currently working at [Vairix](https://www.vairix.com/ "Vairix")!
 - 🌱 Never stop learning
 
