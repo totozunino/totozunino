@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Mathias
 
-I'm a student in Information Technology and i consider myself a software developer enthusiast who likes to code and learn new technologies
+I’m a Software engineer with experience in designing, developing, and implementing innovative software
+solutions. Proficient in multiple programming languages, methodologies and frameworks like Node.js, React
+and Vue.
+<br />
+Strong communication skills and a passion for staying updated with the latest technological advancements.
+
 
 ------------
 
